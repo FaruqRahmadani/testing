@@ -1,3 +1,8 @@
-/*
-!wp-content/themes/SembilanOrganizer/*
+/*.*
+/wp-admin
+/wp-includes
+/wp-content/*.*
+/wp-content/plugins
+/wp-content/themes/twenty*
+/wp-content/uploads
 !.gitignore
